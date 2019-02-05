@@ -72,7 +72,7 @@
         </form-single>
 
         <render-mode>
-            <text type="html" location="component://component-example/screen/CreditCardApp/Stripe.html"/>
+            <text type="html" location="component://donation-component/screen/CreditCardApp/Stripe.html"/>
         </render-mode>
 
     </widgets>
